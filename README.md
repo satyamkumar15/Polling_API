@@ -25,7 +25,7 @@ https://polling-api-t2ug.onrender.com/
 
 🔴Landing Page
 
-![WhatsApp Image 2023-06-29 at 9 13 54 PM](https://github.com/satyamkumar15/Polling_API/assets/104920110/32d1e3e1-a598-4461-b2d2-663119b9fc9b)
+!(https://github.com/satyamkumar15/Polling_API/assets/104920110/32d1e3e1-a598-4461-b2d2-663119b9fc9b)
 
 
 ## ✨Features
@@ -41,12 +41,12 @@ https://polling-api-t2ug.onrender.com/
   * View a question with it’s options and all the votes given to it.
     
 ● Available Routes:
-  * https://dhananjayk-authentication-system.onrender.com/questions/create  (To create a question)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id/options/create  (To add options to a specific question)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id/delete (To delete a question)
-  *	https://dhananjayk-authentication-system.onrender.com/options/:id/delete (To delete an option)
-  *	https://dhananjayk-authentication-system.onrender.com/options/:id/add_vote (To increment the count of votes)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id (To view a question and it’s options)
+  * https://polling-api-t2ug.onrender.com/questions/create  (To create a question)
+  * https://polling-api-t2ug.onrender.com/questions/:id/options/create  (To add options to a specific question)
+  * https://polling-api-t2ug.onrender.com/questions/:id/delete (To delete a question)
+  *	https://polling-api-t2ug.onrender.com/options/:id/delete (To delete an option)
+  *	https://polling-api-t2ug.onrender.com/options/:id/add_vote (To increment the count of votes)
+  * https://polling-api-t2ug.onrender.com/questions/:id (To view a question and it’s options)
     
 ## 🚦Version
 1.0 - Running Succesfully with above feature.
