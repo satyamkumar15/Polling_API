@@ -4,9 +4,7 @@
 🔴This Polling API is made with NODEJS.🔴You can create question on this API and add Options to it.🔴You can vote for specific option. 🔴 You can Delete question. 🔴 You can only Delete Question or Option only if it has not votes;
 ## 🪧Demo
 
-https://dhananjayk-polling-api.onrender.com
-
-
+https://polling-api-t2ug.onrender.com/
 
 ## 📐Installation
 1)Download Zip and Extract it and then run following commands in directory
