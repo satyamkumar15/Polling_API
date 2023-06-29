@@ -25,7 +25,7 @@ https://polling-api-t2ug.onrender.com/
 
 🔴Landing Page
 
-!(https://github.com/satyamkumar15/Polling_API/assets/104920110/32d1e3e1-a598-4461-b2d2-663119b9fc9b)
+![WhatsApp Image 2023-06-29 at 9 13 54 PM](https://github.com/satyamkumar15/Polling_API/assets/104920110/d6ba9e05-613e-4b9c-9260-3c60ffe9512f)
 
 
 ## ✨Features
